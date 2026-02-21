@@ -43,7 +43,7 @@
 </ul>
         </li>
 
-    </ol>
+   </ol>
     <h2> 🔥Tendências o Desenvolvimento Web</h2>
     <hr>
     <p> Algumas tendências estão moldando o futuro da web:
@@ -58,20 +58,20 @@
     <p> Se você está começando, siga estas etapas
     </p>
 
-    <ol>
+   <ol>
         <li> Aprenda HTML, CSS e javascript
         </li>
         <li> Pratique criando projetos Simples
         
-        </li>
+   </li>
         <li> Explore frameworks populares (React, Vue.js, Angular)
         </li>
         <li> Entenda como funciona o backend.
         </li>
         <li> Participe de comunidades e compartilhe seu código no Github.
 
-        </li>
-    </ol> 
+   </li>
+   </ol> 
     <hr>
     <hr>
 </body> 
