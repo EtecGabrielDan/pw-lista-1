@@ -1,24 +1,15 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>pw-lista-1</title>
-</head>
-<body>
-    <h1>🚀 O Futuro do Desenvolvimento Web
-
-    </h1>
+ <h1>🚀 O Futuro do Desenvolvimento Web
+ </h1>
     <hr>
     <h2> 📌Principais Tecnologias Utilizadas
         </h2>
     
-        <hr>
+<hr>
     
-        <p> O desenvolvimento web pode ser dividido em três camadas principais:
+<p> O desenvolvimento web pode ser dividido em três camadas principais:
 
-    </p>
-    <ol>
+</p>
+<ol>
         <li>
             <b>Frontend</b> - Responsável pela interface visual. Tecnologias principais:
             <ul>
@@ -26,30 +17,30 @@
             <li>CSS (estilo)</li>
             <li>JavaScript (interatividade)</li>
             
-            </ul>
+</ul>
 
-        </li>
+</li>
         
-        <li>
+<li>
             <b> Backend</b> - Responsável pelo funcionamento interno do site. Principais tecnologias:
             <ul>
             <li>Node.js</li>
             <li>Python (Django, Flask)</li>
             <li>PHP</li>
             
-            </ul>
+</ul>
 
-        </li>
+</li>
         
-        <li>
+ <li>
             <b> Banco de Dados</b> -Onde as informações são armazenadas. Alguns exemplos:
             <ul>
 
-              <li>MySQL </li>            
+<li>MySQL </li>            
               <li>PostgreSQL</li>
               <li>MongoDB</li>
 
-             </ul>
+</ul>
         </li>
 
     </ol>
